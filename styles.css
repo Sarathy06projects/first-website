@@ -1,0 +1,34 @@
+body{
+	margin: 5em;
+	background-color: #c0c0c0;
+}
+h1{
+	color: black;
+	font-family: cooper black;
+	font-size:30px ;
+	margin-left: 25%;
+
+}
+h3{
+	color: black;
+}
+p{
+	line-height: 1.6;
+}
+.c1{
+	
+}
+.c2 li{
+padding-bottom: 5px;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+.block{
+	float:center;
+	width: 50%;
+	border: 1px solid black;
+	box-sizing: border-box;
+
+}

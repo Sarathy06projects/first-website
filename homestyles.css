@@ -1,0 +1,21 @@
+body{
+	marigin: 5em;
+	background-color:#c0c0c0 ;
+}
+.container{
+	width:80% ;
+	margin: auto;
+}
+h1{
+	color: darkblue;
+	font-family: cooper black;
+	font-size:30px ;
+	margin-left: 25%;
+	width: auto;
+}
+.block{
+	float:center;
+	width: 80%;
+	border: 1px solid black;
+	box-sizing: border-box;
+}
